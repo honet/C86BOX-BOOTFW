@@ -1,6 +1,7 @@
 Archive/
 Backup/
 c86usb_bootloader.cydsn/codegentemp/
+c86usb_bootloader.cydsn/CortexM3/
 *.exe
 *.lib
 *.dll
