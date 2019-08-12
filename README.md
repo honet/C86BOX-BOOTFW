@@ -2,7 +2,7 @@
 <img src="http://c86box.com/images/c86box_wpc2.jpg" width=800>
 Bootloader Firmware for C86BOX (NEC PC-98Series C-BUS to USB Bridge BOX).   
 
-C86BOX http://c86box.com/ の内部ファームウェア（ブートローダー部）です。
+C86BOX http://c86box.com/ の内部ファームウェア（ブートローダー部）です。  
 PSoC Creator 用のプロジェクトファイルです。
 
 
